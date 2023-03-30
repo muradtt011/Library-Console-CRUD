@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2DF85119-2C9E-489D-8EEA-358816D53F47}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Turboaz/Librar/Author.cs">
+    <Files>
+      <File FileName="Turboaz/Librar/Author.cs" Line="13" Column="14" IsPinned="True" />
+      <File FileName="Turboaz/Helper/EnumExtension.cs" Line="17" Column="73" />
+      <File FileName="Turboaz/Helper/ValueExtension.cs" Line="25" Column="27" />
+      <File FileName="Turboaz/Storage/GenericStore.cs" Line="25" Column="17" />
+      <File FileName="Turboaz/Librar/Book.cs" Line="31" Column="35" />
+      <File FileName="Turboaz/Program.cs" Line="11" Column="53" />
+      <File FileName="Turboaz/StableFeatures/Genre.cs" Line="1" Column="1" />
+      <File FileName="Turboaz/Turboaz.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Turboaz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
