@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u2kjpqTMI4AN53H3Kgw36QiO7R9gxJ7zE/u/ozmZVa2dR4EbPkv9Z3aCabU7/eu+rmDI0cM/qyUmVoBXeBmYsg==",
+  "dgSpecHash": "QY0uFB5wdASzqKMQp5HgfAAfYdIXHSFzo5ZmkCd7yQCupPii5Mt+HiKgCLYkNK7QOS/NxYEjjYCRpv2VFo7f0A==",
   "success": true,
-  "projectFilePath": "/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/Turboaz.csproj",
+  "projectFilePath": "/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/Library.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

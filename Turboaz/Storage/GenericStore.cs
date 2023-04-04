@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections;
 
-namespace Turboaz.Storage
+namespace Library.Storage
 {
+    [Serializable]
     public class GenericStore<T> : IEnumerable<T>
         where T : IIdentity
     {
@@ -54,10 +55,19 @@ namespace Turboaz.Storage
         {
             return Array.Find(data, x => x.Id == id);
         }
+        public bool Any(Predicate<T> yoxla)
+        {
+            return Array.Exists(data,yoxla);
+        }
+        public T []FindName(string name)
+        {
+            return Array.FindAll(data, x => x.Name.StartsWith(name));
+        }
     }
     public interface IIdentity
     {
         public int Id { get;  }
+        public string Name { get; }
     }
 
 

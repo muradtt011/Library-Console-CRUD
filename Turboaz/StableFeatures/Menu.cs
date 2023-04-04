@@ -1,23 +1,23 @@
 ﻿using System;
-namespace Turboaz.StableFeatures
+namespace Library.StableFeatures
 {
 	public enum Menu
 	{
 		AuthorGetAll=1,
 		AuthorGetById,
 		AuthorAdd,
-		AuthorFindName,
+		AuthorFindByName,
 		AuthorEdit,
 		AuthorRemove,
 
         BookGetAll ,
         BookGetById,
         BookAdd,
-		BookFindName,
+		BookFindByName,
         BookEdit,
         BookRemove,
 
-		ExitFromApp,
+		SaveAndExit,
     }
 }
 

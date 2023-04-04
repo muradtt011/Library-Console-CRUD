@@ -1,9 +1,10 @@
 ﻿using System;
-using System.Security.Principal;
-using Turboaz.Storage.IIdentity;
-namespace Turboaz
+using Library.Storage;
+
+namespace Library
 
 {
+	[Serializable]
 	public class Author:IIdentity,IEquatable<Author>
 
 	{

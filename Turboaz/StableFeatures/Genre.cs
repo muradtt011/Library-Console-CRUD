@@ -1,10 +1,10 @@
 ﻿using System;
-namespace Turboaz.StableFeatures
+namespace Library.StableFeatures
 {
 	public enum Genre : byte
 	{
 		
-		Fantasy,
+		Fantasy=1,
 		Dystopian,
 		Adventure,
 		Romance,

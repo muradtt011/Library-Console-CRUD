@@ -1,0 +1,15 @@
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/bin/Debug/net6.0/Library
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/bin/Debug/net6.0/Library.deps.json
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/bin/Debug/net6.0/Library.runtimeconfig.json
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/bin/Debug/net6.0/Library.dll
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/bin/Debug/net6.0/Library.pdb
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.csproj.AssemblyReference.cache
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.AssemblyInfoInputs.cache
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.AssemblyInfo.cs
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.csproj.CoreCompileInputs.cache
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.dll
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/refint/Library.dll
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.pdb
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/Library.genruntimeconfig.cache
+/Applications/Visual Studio.app/ConsoleAppTurbo.az/Turboaz/Turboaz/obj/Debug/net6.0/ref/Library.dll

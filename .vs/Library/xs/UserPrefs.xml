@@ -1,26 +1,39 @@
 ﻿<Properties StartupConfiguration="{2DF85119-2C9E-489D-8EEA-358816D53F47}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Turboaz/Librar/Author.cs">
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Turboaz/Storage/Database.cs">
     <Files>
-      <File FileName="Turboaz/Librar/Author.cs" Line="13" Column="14" IsPinned="True" />
-      <File FileName="Turboaz/Helper/EnumExtension.cs" Line="17" Column="73" />
-      <File FileName="Turboaz/Helper/ValueExtension.cs" Line="25" Column="27" />
-      <File FileName="Turboaz/Storage/GenericStore.cs" Line="25" Column="17" />
-      <File FileName="Turboaz/Librar/Book.cs" Line="31" Column="35" />
-      <File FileName="Turboaz/Program.cs" Line="11" Column="53" />
-      <File FileName="Turboaz/StableFeatures/Genre.cs" Line="1" Column="1" />
-      <File FileName="Turboaz/Turboaz.csproj" Line="1" Column="1" />
+      <File FileName="Turboaz/Program.cs" />
+      <File FileName="Turboaz/Storage/GenericStore.cs" />
+      <File FileName="Turboaz/Storage/Database.cs" Line="1" Column="1" />
+      <File FileName="Turboaz/StableFeatures/Menu.cs" />
+      <File FileName="Turboaz/StableFeatures/Genre.cs" />
+      <File FileName="Turboaz/Librar/Book.cs" />
+      <File FileName="Turboaz/Librar/Author.cs" Line="1" Column="1" />
+      <File FileName="Turboaz/Helper/ValueExtension.cs" />
+      <File FileName="Turboaz/Helper/EnumExtension.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="Library" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Library" expanded="True">
+              <Node name="Helper" expanded="True" />
+              <Node name="Librar" expanded="True" />
+              <Node name="StableFeatures" expanded="True" />
+              <Node name="Storage" expanded="True">
+                <Node name="Database.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Turboaz PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
